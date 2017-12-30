@@ -1,0 +1,91 @@
+body{
+ margin:0;
+}
+.main{
+  background-image:  url("https://i.imgur.com/qzr7A9g.jpg");
+  height=1000px;
+  width: auto;
+  background-position: center center;
+      background-repeat:norepeat;
+  background-size: cover;
+  clear: both;
+}
+
+.title{
+  padding-top:150px;
+  color:white;
+  font-size:70px;
+}
+.thebuttons{
+  padding: 20px;
+}
+
+.home{
+  background-image: url("https://i.imgur.com/qzr7A9g.jpg")
+}
+#container{
+  height: 1000px;
+    width: auto;
+    margin-top:-20px;
+    clear: both;
+}
+.header{
+  background-color: clear;
+  width: auto;
+  position: fixed;
+  clear: both;
+  height: 1000px;  
+}
+.projects{
+  font-size:70px;
+  color: black;
+  padding-top:100px;
+}
+
+.contact{
+  background-color:black;
+  color: silver;
+  height: 200px;
+  margin-top:-40px;
+
+}
+h4{
+  font-size:30px;
+  color:silver;
+}
+hr{
+  width=50%;
+  position:center;
+}
+
+p{
+  padding-left:50px;
+  font-size:25px;
+  color: white;
+}
+
+d{
+  padding-left:50px;
+  pading-top:5px;
+  font-size:25px;
+  color: white;
+}
+b{
+  position:center;
+}
+.page2{
+  height:1000px;
+  background-image:url("https://i.imgur.com/eKUmSlT.jpg");
+  
+  background-position: center center;
+  background-repeat:norepeat;
+  background-size: cover;
+  color: white;
+  border:hidden;
+  text-align: center;
+  clear: both;
+  font-size: 40px;
+  width: auto;
+  margin-top:-40px;
+}
+
